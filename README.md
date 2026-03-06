@@ -4,6 +4,7 @@
 1) [GitHub](https://github.com)
 2) [StreamlitCloudAccount](https://streamlit.io/cloud)
 3) [VsCodeIDE](https://code.visualstudio.com/download)
+4) [BangloreHousePricePredictionLive](https://bglorehousepriceprediction-7vhkgmjr93vhv2kkpjcuby.streamlit.app/)
 
 
 # Project Setup
